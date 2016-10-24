@@ -34,3 +34,6 @@ public class ExtraCredit2 {
     }//main
 
 }//class
+
+
+// What does this line do:      Sassy = d<=5;
